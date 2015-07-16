@@ -1,0 +1,67 @@
+/*Udacity Image*/
+.udacityimage{
+    width: 220px;
+}
+/*Text "Code Review Report" top*/
+.top{
+    margin-top: -5px;
+}
+/*Container with gradient background*/
+.totalgradient{
+    border: 1px dotted gray;
+    background: url("../images/b_gradient2_1024.png") no-repeat fixed;
+    background-size: 100% 100%;
+    padding: 60px;
+    width: 100%;
+}
+/*Center Circles*/
+.center{
+    text-align: center;
+}
+/*Circles of statistic times*/
+.circle{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid gray;
+    text-align: center;
+    box-shadow: 6px 7px 10px #5f5959;
+}
+/*Results of statistic times*/
+h1{
+    margin-top: 35px;
+    vertical-align: middle;
+}
+/*Cognits Icon*/
+.glyphicon-chevron-right{
+    color: skyblue;
+}
+/*Quality Container*/
+.quality{
+    width: 100%;
+    background-color: #39393B;
+}
+/*Vertical space between Response Time and Quality*/
+.space{
+    padding-top: 20px;
+}
+/*flecha de direccion de Quality*/
+.iconquality{
+    color: #FF4E50;
+}
+/*Color of Quality Text*/
+.qualitycolor{
+    color: white;
+}
+/*Background-color of Footer*/
+.footer{
+    width: 100%;
+    background-color: #2A2B2D;
+}
+/*Footer space for the Cognits image*/
+.footerspace{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
